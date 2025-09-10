@@ -134,5 +134,15 @@
     },
     "ac": 9,
     "xp_value": 30
+  }, //Added Mimic monster
+  "mimic-chest": {
+    "ac": 8,
+    "level": 3,
+    "attacks": {
+      "bite": ["2d8", "bleeding"]
+    },
+    "job": "fighter",
+    "treasure": "U",
+    "xp_value": 100
   }
 }
